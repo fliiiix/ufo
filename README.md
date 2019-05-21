@@ -3,7 +3,7 @@ UFO
 
 ![ufo map usa](ufo-map-usa.png)
 
-Ufo sighting by US state.
+UFO sighting by US state.
 
 ## Setup Python
 
